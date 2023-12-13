@@ -1,5 +1,4 @@
- oh-my-posh init pwsh --config 'D:\OneDrive\Documents\PowerShell\PoshThemes\quick_term.omb.json' | Invoke-Expression
-# oh-my-posh init pwsh --config 'D:\OneDrive\Documents\PowerShell\PoshThemes\test_example.omb.json' | Invoke-Expression
+oh-my-posh init pwsh --config 'D:\OneDrive\Documents\PowerShell\PoshThemes\statusTerm.omb.json' | Invoke-Expression
 
 $global:cdc = "D:\OneDrive - University of Kansas\College Information\Year - 2023 Fall"
 $global:cdr = "D:\OneDrive - University of Kansas\Research"  
